@@ -3,4 +3,5 @@
 	url = https://github.com/platformio/builder-framework-libopencm3.git
 [submodule "builder/frameworks/arduino/mbed-core"]
 	path = builder/frameworks/arduino/mbed-core
-	url = https://github.com/platformio/builder-framework-arduino-core-mbed.git
+	url = https://github.com/AndrewCapon/builder-framework-arduino-core-mbed.git
+	branch = giga_r1
